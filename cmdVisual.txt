@@ -1,0 +1,17 @@
+Ctrl + Shift + N    → Nuevo proyecto
+Ctrl + N           → Nuevo archivo
+Ctrl + Shift + O   → Abrir proyecto/solución
+Ctrl + O           → Abrir archivo
+Shift + Alt + C    → Agregar nueva clase
+Shift + Alt + A    → Agregar elemento existente
+
+F9                 → Poner/Quitar breakpoint
+F10                → Paso por procedimiento
+F11                → Paso a paso
+Shift + F11        → Paso para salir
+Ctrl + Shift + F9  → Eliminar todos los breakpoints
+
+Ctrl + .           → Mostrar acciones rápidas
+Ctrl + R, Ctrl + M → Extraer método
+Ctrl + R, Ctrl + V → Extraer variable
+Ctrl + R, Ctrl + I → Extraer interfaz
