@@ -1,0 +1,12 @@
+# Navegación
+cd [ruta]           → Cambiar directorio
+cd ..               → Directorio anterior
+ls / dir            → Listar archivos
+pwd                 → Mostrar directorio actual
+
+# Archivos
+mkdir [nombre]      → Crear carpeta
+touch [archivo]     → Crear archivo (bash)
+ni [archivo]        → Crear archivo (PowerShell)
+rm [archivo]        → Eliminar archivo
+rm -r [carpeta]     → Eliminar carpeta recursiva
